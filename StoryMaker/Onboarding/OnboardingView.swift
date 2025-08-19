@@ -69,7 +69,7 @@ extension OnboardingView {
                             .font(.system(size: 28))
                             .fontWeight(.bold)
                             .foregroundColor(Color.bgSplashBtn)
-                        Text("More than 1000 Template with many topic")
+                        Text("More than 1000 Template with many topic gkugui")
                             .font(.system(size: 18))
                             .multilineTextAlignment(.center)
                             .foregroundColor(Color.bgSplashBtn)
